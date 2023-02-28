@@ -1,0 +1,73 @@
+html, body, head {
+  height: 100%;
+  width: 100%;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/007/470/561/original/aesthetic-abstract-liquify-background-free-photo.jpg");
+}
+
+h2{ 
+  background-color: #e6a08e; 
+  color: rgb(0, 0, 0); 
+  font-family: monospace; 
+  font-size: 45px; 
+  align-content: center;
+  text-align: center;
+ } 
+
+i{
+  background-color: rgb(204, 145, 229); 
+  color: black; 
+  margin: 20px;
+  padding-left: 30px;
+
+
+}
+
+h3{ 
+  background-color: #050505; 
+  color: rgb(250, 241, 241); 
+  font-family: 'Times New Roman', Times, serif; 
+  font-size: 30px; 
+  font-style: italic;
+  align-content:center;
+  text-align:center;
+  margin: 450px;
+  padding-left: 30px;
+  } 
+
+div.center{
+  text-align: center;
+  align-content: center;
+}
+
+.TextoPrueba{ 
+ background-color: rgb(204, 145, 229); 
+ color: black; 
+ font-family: 'Courier New', Courier, monospace; 
+ font-size: 45px; 
+ font-weight: bold;
+ align-content: center;
+ text-align: center;
+ margin: 20px;
+ padding-left: 20px;
+} 
+
+.Texto{
+    color: black;
+    background-color: darkmagenta;
+    font-size: 20px;
+    text-align: justify;
+    align-content: baseline;
+    
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.Imagen{
+    height: 50 px;
+    width: 50 px;
+   
+}
+
